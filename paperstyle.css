@@ -1,0 +1,15 @@
+html, body
+{
+    height: 100%;
+}
+.container
+{
+    height: 100%;
+    max-width: 10in;
+    background-color: white;
+}
+body
+{
+    --bs-body-font-family: 'Georgia', 'Times New Roman', serif;
+    background-color: whitesmoke;
+}
